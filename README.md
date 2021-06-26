@@ -1,10 +1,14 @@
 # kickstarter-data
-Analysis of KickStarter data from 2009 to 2017
+<b>Analysis of KickStarter data from 2009 to 2017</b>
 
-This contains my excel on the analysis of the data
-Sheet 1 contains the data
-Pivot Table by Category
-Pivot Table by Sub-Category
-Pivot Table by State of Project
+<b>This contains my excel on the analysis of the data</b>
+  </br> Sheet 1 contains the data
+  </br> Pivot Table by Category
+  </br> Pivot Table by Sub-Category
+  </br> Pivot Table by State of Project
+  </br> Updated to include Percentage by State of Campaign
+  </br> Updated to include Amount of backers per successful and failed
 
-This contains my written analysis of the data provided
+<b>This contains my written analysis of the data provided</b>
+
+<b>This contains my written analysis of amount of backers in successful and failed campaigns</b>
